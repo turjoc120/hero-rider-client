@@ -1,4 +1,5 @@
 .App {
+  font-family: 'Poppins', sans-serif;
   text-align: center;
 }
 
@@ -11,6 +12,31 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+/* custom css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.herohead{
+  font-size: 4rem;
+  font-weight: 900;
+  color: rgb(133, 0, 122);
+}
+
+.action-btn{
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 8px 16px;
+  font-size: 15px;
+  cursor: pointer;
+  border-color: purple;
+  color: purple;
+transition: linear 0.3s;  
+}
+
+.action-btn:hover {
+  background: purple;
+  color: white;
 }
 
 .App-header {

@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "title": "Car Driving In 60 days",
+        "info": " Some quick package of learning to drive cars in 60 days. you will be given with a support instrucor.",
+        "price": 200,
+        "img": "https://image.freepik.com/free-vector/driver-uses-hud-technology-navigate-with-gps-chat-with-crew_1150-41758.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Bike Driving In 30 days",
+        "info": " its a quick package of learning to drive bikes in 30 days. you will be given with a support instrucor.",
+        "price": 100,
+        "img": "https://image.freepik.com/free-vector/isometric-biker-road-top-side-view-motorbike-transport-sport-speed-vehicle-rider_1284-44507.jpg"
+    }
+]
